@@ -1,0 +1,14 @@
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\bin\Debug\net8.0\DevOpsNinjaApp.exe
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\bin\Debug\net8.0\DevOpsNinjaApp.deps.json
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\bin\Debug\net8.0\DevOpsNinjaApp.runtimeconfig.json
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\bin\Debug\net8.0\DevOpsNinjaApp.dll
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\bin\Debug\net8.0\DevOpsNinjaApp.pdb
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.AssemblyInfoInputs.cache
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.AssemblyInfo.cs
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.csproj.CoreCompileInputs.cache
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.dll
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\refint\DevOpsNinjaApp.dll
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.pdb
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\DevOpsNinjaApp.genruntimeconfig.cache
+D:\Dotnet_app_demo2026\DevOpsNinjaApp\obj\Debug\net8.0\ref\DevOpsNinjaApp.dll
